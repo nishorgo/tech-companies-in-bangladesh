@@ -363,6 +363,11 @@ https://github.com/ChumbokIT[Github]
 |Java
 |http://ipvision.ca/[Website]
 
+|IQVIA
+|51, 52 Bir Uttam AK Khandakar Road, Dhaka 1212
+|ASP.NET, Java EE, PHP
+|https://jobs.iqvia.com/[Website]
+
 |Isratts Technologies
 |House 58, Road 05, O R Nizam Rd R/A, GEC, Chattogram, Bangladesh
 |
